@@ -6,5 +6,10 @@ namespace N10__YP__Task_5_10._04._2025
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
